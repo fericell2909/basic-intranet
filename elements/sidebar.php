@@ -41,6 +41,7 @@ if (isset($_SESSION['id'])):
                                     ?>
                                     <li><a href="usuarios.php">Usuarios</a></li>
                                 <?php endif; ?>
+                                <li><a href="docentes.php">Docentes</a></li>
                             </ul>
                         </li>
 
