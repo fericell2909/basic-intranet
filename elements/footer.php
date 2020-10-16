@@ -4,7 +4,7 @@ if (isset($_SESSION['id'])):
     <footer>
         <div class="copyright-info">
             <p class="pull-right">
-                Powered by <a href="https://www.facebook.com/cpcha94" target="_blank">Pablo Chávez</a>
+            © <?php echo date('Y');?> <a href="https://github.com/fericell2909" target="_blank"> Desarrolladores de Software</a>
             </p>
         </div>
         
