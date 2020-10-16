@@ -1,0 +1,47 @@
+[20-Mar-2018 01:58:02 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:02 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:02 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:06 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:06 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:06 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:06 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:06 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:06 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:07 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:07 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:07 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:07 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:07 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:07 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:07 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:07 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:07 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:32 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:32 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:32 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:33 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:33 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 01:58:33 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[20-Mar-2018 02:04:30 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[21-Mar-2018 18:00:24 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[21-Mar-2018 18:00:24 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[21-Mar-2018 18:00:24 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cecomp/public_html/intranet/modulos/cliente/acciones.php on line 4
+[21-Mar-2018 18:11:02 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'GuzzleHttp requires cURL, the allow_url_fopen ini setting, or a custom HTTP handler.' in /home/cecomp/public_html/intranet/vendor/guzzlehttp/guzzle/src/functions.php:119
+Stack trace:
+#0 /home/cecomp/public_html/intranet/vendor/guzzlehttp/guzzle/src/HandlerStack.php(40): GuzzleHttp\choose_handler()
+#1 /home/cecomp/public_html/intranet/vendor/guzzlehttp/guzzle/src/Client.php(65): GuzzleHttp\HandlerStack::create()
+#2 /home/cecomp/public_html/intranet/vendor/tecactus/reniec-php/src/DNI.php(23): GuzzleHttp\Client->__construct(Array)
+#3 /home/cecomp/public_html/intranet/modulos/cliente/acciones.php(9): Tecactus\Reniec\DNI->__construct('HzUC4Pb2fVVvI0B...')
+#4 {main}
+  thrown in /home/cecomp/public_html/intranet/vendor/guzzlehttp/guzzle/src/functions.php on line 119

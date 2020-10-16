@@ -1,0 +1,106 @@
+
+header{
+    padding-bottom: 60px;
+}
+
+
+
+nav.navbar {
+    background-color:#D82F4B;
+    border-color:#D82F4B;
+    box-shadow: 0px 2px 3px 0px #2e2e2d;
+}
+
+nav.navbar-inverse .navbar-brand{
+    color: #fff;
+}
+
+
+
+nav.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+nav.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    background-color: #c11d38;
+    border-bottom: #fff 3px solid;
+
+}
+
+
+
+nav.navbar-inverse .navbar-nav > li > a:hover {
+    color: #fff;
+    background-color: #c11d38;
+    border-bottom: #c11d38 3px solid;
+}
+
+.fondo-blanco{
+    background: #fff;
+    padding-bottom: 20px;
+}
+
+.h3-bold{
+    font-weight: bold;
+}
+
+
+footer{
+    background: #363636;
+    color: #fff;
+
+
+
+
+}
+
+
+.pfooter{
+    margin: 10px 0px 5px 0px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.77);
+}
+
+.ln_solid {
+    border-top: 1px solid #e5e5e5;
+    color: #ffffff;
+    background-color: #ffffff;
+    height: 1px;
+    margin: 20px 0;
+}
+
+
+/* cpcha*/
+/* --fonts --*/
+@font-face{
+    font-family:"century-gothic";
+    src:url("../fonts/ufonts.com_century-gothic.ttf") format("truetype");
+}
+.title-form {
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 0;
+    font-family: century-gothic;
+    font-size: 20px;
+    font-weight: 300;
+    color: #2d2d2d;
+    border-bottom: 1px dashed #2d2d2d;
+}
+.font-formulario {
+    font-family: century-gothic;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+/*Celulares
+@media screen and (max-device-width: 480px) {
+    .margin-bot{
+            margin-bottom: 15px !important;
+    }
+
+}
+*/
